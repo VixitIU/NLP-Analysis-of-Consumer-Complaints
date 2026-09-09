@@ -18,7 +18,7 @@ categories.
 ```
 ├── topic_analysis.ipynb   # the complete analysis (run top to bottom)
 ├── requirements.txt       # Python dependencies
-├── data/                  # dataset location (CSV not committed, see below)
+├── data/                  # dataset location
 └── README.md
 ```
 
