@@ -57,8 +57,6 @@ more records than the 6,475 available at the time of the conception phase.
 jupyter notebook topic_analysis.ipynb
 ```
 
-Then run all cells (menu: *Run → Run All Cells*). The full run takes a few minutes;
-the preprocessing cell is the slowest. NLTK downloads its language resources
-(tokenizer, stop words, WordNet) automatically on the first run.
+Then run all cells (menu: *Run → Run All Cells*).
 
 Tested with Python 3.13.9, `pandas` 3.0.5, `nltk` 3.10.3, `scikit-learn` 1.9.0.
