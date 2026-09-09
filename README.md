@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ## Data
 
-1.**Commited to Repository**
+1. **Commited to Repository**
 
 2. **Automatic (default):** simply run the notebook. If `data/complaints.csv` does not
    exist, it is downloaded once from the official CFPB complaint-search API with the
