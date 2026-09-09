@@ -38,14 +38,14 @@ pip install -r requirements.txt
 
 ## Data
 
-1. **Commited to Repository**
+1. **Commited to the repository**
 
 2. **Automatic (default):** simply run the notebook. If `data/complaints.csv` does not
    exist, it is downloaded once from the official CFPB complaint-search API with the
    filters *product = Student loan*, *narratives only*, *received 2025-07-01 to
    2026-06-30*, and saved locally.
    
-4. **Manual:** on [consumerfinance.gov/data-research/consumer-complaints/search](https://www.consumerfinance.gov/data-research/consumer-complaints/search/),
+3. **Manual:** on [consumerfinance.gov/data-research/consumer-complaints/search](https://www.consumerfinance.gov/data-research/consumer-complaints/search/),
    set the same filters, export as CSV and save the file as `data/complaints.csv`.
 
 Note: narratives are published with a delay, so a fresh download may contain slightly
