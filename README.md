@@ -40,8 +40,7 @@ pip install -r requirements.txt
 
 The dataset is committed to the repository as `data/complaints.csv`: 6,475 student loan
 complaints with a narrative, received between 2025-07-01 and 2026-06-30, exported from
-the CFPB Consumer Complaint Database during the conception phase. The notebook loads this
-file directly, no download is needed.
+the CFPB Consumer Complaint Database during the conception phase.
 
 Note: since 14 August 2026 the CFPB no longer publishes complaint narratives, so the data
 can no longer be downloaded from the CFPB website or API.
